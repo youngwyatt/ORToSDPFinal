@@ -8,7 +8,7 @@ This repository contains the finalized data structuring and error-handling pipel
 - Automated validation of rehabilitation data
 - Compatibility Python data analysis tools
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 - DOES NOT INCLUDE DE-IDENTIFIED PATIENT DATA
 ### Clone Repository
 ```bash
